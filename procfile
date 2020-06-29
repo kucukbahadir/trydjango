@@ -1,1 +1,1 @@
-web: gunicorn trydjango.wsgi.py --log-file -
+web: gunicorn trydjango.wsgis --log-file -
